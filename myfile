@@ -4,4 +4,6 @@ int main ()
   int a,b,c;
   c=a+b;
   printf("The sum of two numbers are: c);
+  /* This second line added from london EC2 Instance*/
 }
+
